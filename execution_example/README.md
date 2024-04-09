@@ -2,7 +2,7 @@
 
 &nbsp;
 
-This execution example, using graph data from "./instances/v30_d20.txt" and with the parameters $k=m=2$, demonstrates the algorithm's process. In each figure, vertices in $X^{*}$, $X^{+}$, and $X^{-}$ are represented by red, grey, and blue, respectively. During the execution process, the vertex removal set $RS$ sequentially records the vertices deleted from $X^*$. Red blocks represent the phase of shrinking feasible solutions, while green blocks represent the phase of local search
+This execution example, using graph data from "./instances/v30_d20.txt" and with the parameters $k=m=2$, demonstrates the algorithm's process. In each figure, vertices in $X^*$, $X^+$, and $X^-$ are represented by red, grey, and blue, respectively. During the execution process, the vertex removal set $RS$ sequentially records the vertices deleted from $X^*$. Red blocks represent the phase of shrinking feasible solutions, while green blocks represent the phase of local search
 
 
 The swap-based local search algorithm begins with the entire vertex set $V$. 
